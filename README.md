@@ -1,0 +1,2 @@
+# pandora-init
+pandora init
